@@ -1,4 +1,4 @@
-```markdown
+```
 # Trending YouTube Video Analysis (2025-26 Project)
 
 This project analyzes the "Trending YouTube" dataset to uncover insights about viral videos across different countries. It is developed as a Jupyter Notebook for the 2025-26 course project.
@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib seaborn
 
 
 
-## 📊 Project Objectives & Steps
+## Project Objectives & Steps
 
 This notebook executes the following 15 analysis steps:
 
@@ -73,7 +73,7 @@ This notebook executes the following 15 analysis steps:
 14. **Category Mapping**: Loading category names and assignability rules from `data/json/`.
 15. **Unassignable Categories**: Counting videos with categories marked as "not assignable" or missing from the JSON definitions.
 
-## 🤖 AI Usage Declaration
+## AI Usage Declaration
 
 * AI tools were used to assist in generating code snippets for data cleaning and visualization (specifically Matplotlib and Seaborn plots).
 
