@@ -1,4 +1,4 @@
-```
+
 # Trending YouTube Video Analysis (2025-26 Project)
 
 This project analyzes the "Trending YouTube" dataset to uncover insights about viral videos across different countries. It is developed as a Jupyter Notebook for the 2025-26 course project.
