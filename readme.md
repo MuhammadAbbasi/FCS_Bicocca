@@ -76,3 +76,4 @@ This notebook executes the following 15 analysis steps:
 ## AI Usage Declaration
 
 * AI tools were used to assist in generating code snippets for data cleaning and visualization (specifically Matplotlib and Seaborn plots).
+* Also the readme file was made with assistance of AI Tool.
